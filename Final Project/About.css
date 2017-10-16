@@ -1,0 +1,64 @@
+body{  font-family: 'Berkshire Swash', sans-serif;
+background-image:url('http://funpeep.com/wp-content/uploads/2014/04/Pink-Background-Wallpapers.jpg');
+
+}
+
+.title{
+text-align: center;
+color:#fff;
+
+}
+
+.navbar li {
+    border-right: 1px solid #bbb;
+    position: relative;
+   left: 500px;
+ 
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('https://i.pinimg.com/originals/ce/47/98/ce47987926c37f2ab681ba5b237ac9f8.jpg');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+
+
+.jumbotron h2 {
+  font-size: 45px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+
+
+/* FOOTER NAVIGATION */
+
+nav {
+  background-color: #000000;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 5px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+
+nav a {
+  height: 60px;
+  line-height: 60px;
+}
